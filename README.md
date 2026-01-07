@@ -7,6 +7,8 @@ Esse trabalho foi desenvolvido no [MIT App Inventor](https://appinventor.mit.edu
 
 O aplicativo consiste em uma Agenda Digital comum, com opções de adicionar eventos, visualizar eventos, um calendário em HTML embutido, um perfil personalizável e até a possibilidade do uso do app no modo claro ou escuro, além de que todas as informações armazenadas no app, como eventos adicionados, dados do perfil e escolha de modo (claro ou escuro), são únicas para cada login de usuário.
 
+Compartilhe o seu feedback desse app por meio do formulário online disponível [aqui](https://docs.google.com/forms/d/e/1FAIpQLSeCbHxVckCH2Tc2J_3dUzO5nVc-qcOSRDNUaQDcFbvaEePLbg/viewform?usp=header).
+
 ![completo badge](https://img.shields.io/badge/status-completo-darkgreen) 
 # Projeto
 
